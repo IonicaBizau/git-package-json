@@ -26,7 +26,8 @@
   "homepage": "https://github.com/IonicaBizau/git-package-json#readme",
   "dependencies": {
     "err": "^1.1.1",
-    "gry": "^4.3.1",
+    "gry": "^5.0.0",
+    "normalize-package-data": "^2.3.5",
     "oargv": "^3.4.1",
     "r-json": "^1.2.1"
   }
