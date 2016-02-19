@@ -1,6 +1,6 @@
 {
   "name": "git-package-json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get the package.json contents from git repositories.",
   "main": "lib/index.js",
   "directories": {
