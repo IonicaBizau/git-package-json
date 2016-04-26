@@ -1,6 +1,6 @@
 {
   "name": "git-package-json",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Get the package.json contents from git repositories.",
   "main": "lib/index.js",
   "directories": {
@@ -34,5 +34,16 @@
     "r-json": "^1.2.1",
     "r-package-json": "^1.0.0",
     "tmp": "0.0.28"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
