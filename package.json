@@ -1,6 +1,6 @@
 {
   "name": "git-package-json",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "Get the package.json contents from git repositories.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "package",
     "json"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/git-package-json/issues"
@@ -39,12 +39,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
